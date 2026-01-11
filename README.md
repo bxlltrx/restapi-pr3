@@ -69,7 +69,7 @@
 Параметры подключения:
 - JDBC URL: `jdbc:h2:mem:librarydb`
 - User: `sa`
-- Password: *(пусто)*
+- Password: (пусто)
 
 ---
 
