@@ -14,7 +14,7 @@
 
 ## 🧰 Используемые технологии
 
-- **Java 17**
+- **Java 25**
 - **Spring Boot 3**
 - **Spring Web (REST)**
 - **Spring Data JPA**
